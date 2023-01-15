@@ -38,10 +38,44 @@ any mathematical ops
 Conditional operations
 these are operation executed based on conditions that are met.
 eg.
-comaparing: ==, !==
+comaparing: ==, !=, >, <, >=, <=
 if
 if-else
+if-else-if
 while
-d0-while
+
+LHS and RHS
+
+4 == 5 > False, True
+
+3 != 9 > True
+
+>
+
+greater than
+
+5 > 9
+
+<
+
+5 < 9
+
+> =
+
+8 >= 9, False
+
+<=
+
+7 <= 9, True
+9 <= 7, False
 
 # Advanced Data Types
+
+list
+to create a list we use the square brackets, []. all the elements are contained in the list and are separated by commas.
+
+tuples
+
+set
+
+dictionaries
