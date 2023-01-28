@@ -79,3 +79,28 @@ tuples
 set
 
 dictionaries
+
+# For loop
+
+A for loop is used to loop through lists or strings.
+
+# Functions
+
+A function is a collection of code that represents a logic. The function can be called to perform a certain action.
+
+For a function to exceute its blocks of code we must execute it.
+
+Parameters are data passed to a function upon calling it.
+
+The `def` keyword is a reserved name in Python used to define or create function in Python.
+
+Assignment:
+
+Add these numbers
+
+1. 88 and 90
+2. 55 and 33
+3. 45 and 109
+4. 99 and 456
+   ...
+5. 43434 and 434
